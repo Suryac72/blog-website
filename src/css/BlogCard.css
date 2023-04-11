@@ -1,0 +1,10 @@
+.link{
+    text-decoration: none;
+    color: rgb(32, 30, 30);
+}
+.edit,.delete,.like{
+  cursor: pointer;
+}
+h4{
+  cursor: pointer;
+}
